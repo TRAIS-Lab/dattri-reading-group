@@ -10,5 +10,11 @@ permalink: /recording/
 ## First Meeting
 <!-- 2024-06-22 -->
 
+[Jiaqi Ma](https://jiaqima.github.io/): Influence Function
+
+<https://www.youtube.com/watch?v=iQavd0dK704>
+
 ## Second Meeting
 <!-- 2024-06-29 -->
+
+[Jiaqi Ma](https://jiaqima.github.io/):
