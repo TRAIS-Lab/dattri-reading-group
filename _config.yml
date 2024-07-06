@@ -24,14 +24,12 @@ author: Pingbang Hu
 #   A reading group focusing on Data Attribution for Generative AI
 baseurl: "/dattri-reading-group" # the subpath of your site, e.g. /blog
 url: "https://trais-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
 
 # SOCIAL PROFILES
 social:
   email: name@example.com
-  twitter: peterdesmet
-  github: github_username               # Can also be a github_username/repository
+  twitter:
+  github: https://github.com/TRAIS-Lab/dattri-reading-group               # Can also be a github_username/repository
   mastodon: https://mastodon.social/@mastodon_username
   facebook:                             # A URL
   disqus: disqus_sitename               # Enable Disqus comments from disqus_sitename.disqus.com
