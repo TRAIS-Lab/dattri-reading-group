@@ -2,8 +2,8 @@
 layout: home
 title: Data Attribution for Generative AI
 description: In the era of data-centric AI
-background: /assets/image/bigdata.jpg
+background: /assets/image/home.jpeg
 permalink: /
 ---
 
-This is some default text.
+To see more, please go to the [About Page](./about).
