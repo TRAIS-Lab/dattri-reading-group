@@ -29,7 +29,7 @@ url: "https://trais-lab.github.io" # the base hostname & protocol for your site,
 social:
   email: name@example.com
   twitter:
-  github: https://github.com/TRAIS-Lab/dattri-reading-group               # Can also be a github_username/repository
+  github: TRAIS-Lab/dattri-reading-group               # Can also be a github_username/repository
   mastodon: https://mastodon.social/@mastodon_username
   facebook:                             # A URL
   disqus: disqus_sitename               # Enable Disqus comments from disqus_sitename.disqus.com
