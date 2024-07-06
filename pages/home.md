@@ -6,4 +6,4 @@ background: /assets/image/bigdata.jpg
 permalink: /
 ---
 
-Some text
+This is some default text.
