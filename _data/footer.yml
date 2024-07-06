@@ -5,15 +5,15 @@
 columns:
   - description:
     links:
-    - text: Jiaqi Ma
-      href: https://jiaqima.github.io/
-      new_window: true
-    - text: Lead
-      href: http://example.com
-      new_window: true
+    # - text: Jiaqi Ma
+    #   href: https://jiaqima.github.io/
+    #   new_window: true
+    # - text: Lead
+    #   href: http://example.com
+    #   new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      Some description about the Reading Group.
+      Data Attribution Reading Group, Summer 2024.
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown

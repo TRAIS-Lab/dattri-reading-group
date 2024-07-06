@@ -1,1 +1,1 @@
-# dattri-reading-group
+# Data Attribution Reading Group

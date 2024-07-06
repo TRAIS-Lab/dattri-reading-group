@@ -1,14 +1,14 @@
 # Project team members listed below will appear on the /team page
 
 - name: Jiaqi Ma
-  role: Lead # Will appear next to name
+  # role: Faculty # Will appear next to name
   image: assets/image/Jiaqi.jpg
   description: > # Can be Markdown
-    Some description
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_username
+    University of Illinois Urbana-Champaign
+  # orcid: 0000-0000-0000-0000
+  # researchgate: researchgate_username
   googlescholar: Z9X2A1MAAAAJ
   twitter: Jiaqi_Ma_
-  mastodon: https://sigmoid.social/@Jiaqi_Ma_
-  github: jiaqima
+  # mastodon: https://sigmoid.social/@Jiaqi_Ma_
+  # github: jiaqima
   email: jiqaima@illinois.edu
