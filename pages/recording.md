@@ -2,7 +2,7 @@
 layout: archive
 title: Recording
 description: Recordings of Past Presentations
-background: /assets/image/recording.jpg
+background: /assets/image/recording/cover.jpg
 permalink: /recording/
 ---
 

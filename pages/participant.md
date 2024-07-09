@@ -2,6 +2,6 @@
 layout: team
 title: Participant
 description: Who we are
-background: /assets/image/team.jpg
+background: /assets/image/team/cover.jpg
 permalink: /participant/
 ---

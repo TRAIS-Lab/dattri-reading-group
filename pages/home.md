@@ -2,7 +2,7 @@
 layout: home
 title: Data Attribution Reading Group
 description: Methods and Applications in the Era of Generative AI
-background: /assets/image/home.jpg
+background: /assets/image/home/cover.jpg
 permalink: /
 ---
 
