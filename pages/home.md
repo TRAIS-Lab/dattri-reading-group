@@ -8,4 +8,4 @@ permalink: /
 
 This is a Summer 2024 reading group on *data attribution*, which aims to measure the influence of individual training data points on machine learning models trained on them. The reading group will first cover several classic data attribution approaches, and then move on to focus on recent developments in the era of generative AI.
 
-The following are recordings of recent two presentations. Please see the [Recording Page](./recording) for more.
+Below are recordings of our two most recent presentations. For more, please visit the [Recording Page](./recording).
