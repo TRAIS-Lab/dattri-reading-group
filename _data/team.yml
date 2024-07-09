@@ -18,7 +18,7 @@
 
 - name: Himabindu Lakkaraju
   role: Faculty # Will appear next to name
-  image: assets/image/team/Himabindu.jpg
+  image: assets/image/team/Himabindu.png
   description: > # Can be Markdown
     Harvard University
   website: https://himalakkaraju.github.io/
