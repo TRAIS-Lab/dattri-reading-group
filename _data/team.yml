@@ -1,15 +1,54 @@
 # Project team members listed below will appear on the /team page
 
-# - name: Jiaqi Ma
-#   # role: Faculty # Will appear next to name
-#   image: assets/image/team/Jiaqi.jpg
-#   description: > # Can be Markdown
-#     University of Illinois Urbana-Champaign
-#   website: https://jiaqima.github.io
-#   # orcid: 0000-0000-0000-0000
-#   # researchgate: researchgate_username
-#   googlescholar: Z9X2A1MAAAAJ
-#   twitter: Jiaqi_Ma_
-#   # mastodon: https://sigmoid.social/@Jiaqi_Ma_
-#   # github: jiaqima
-#   email: jiqaima@illinois.edu
+# Faculty
+
+- name: Zhao Han
+  role: Faculty # Will appear next to name
+  image: assets/image/team/Han.png
+  description: > # Can be Markdown
+    University of Illinois Urbana-Champaign
+  website: https://hanzhaoml.github.io/
+
+- name: Ruoxi Jia
+  role: Faculty # Will appear next to name
+  image: assets/image/team/Ruoxi.png
+  description: > # Can be Markdown
+    Virginia Polytechnic Institute and State University (Virginia Tech)
+  website: https://ruoxijia.net/
+
+- name: Himabindu Lakkaraju
+  role: Faculty # Will appear next to name
+  image: assets/image/team/Himabindu.jpg
+  description: > # Can be Markdown
+    Harvard University
+  website: https://himalakkaraju.github.io/
+
+- name: Jiaqi Ma
+  role: Faculty # Will appear next to name
+  image: assets/image/team/Jiaqi.jpg
+  description: > # Can be Markdown
+    University of Illinois Urbana-Champaign
+  website: https://jiaqima.github.io
+
+- name: Hao Peng
+  role: Faculty # Will appear next to name
+  image: assets/image/team/Hao.jpg
+  description: > # Can be Markdown
+    University of Illinois Urbana-Champaign
+  website: https://haopeng-nlp.github.io/
+
+- name: Weijing Tang
+  role: Faculty # Will appear next to name
+  image: assets/image/team/Weijing.jpg
+  description: > # Can be Markdown
+    Carnegie Mellon University
+  website: https://sites.google.com/andrew.cmu.edu/weijingtang/home
+
+- name: Jieyu Zhao
+  role: Faculty # Will appear next to name
+  image: assets/image/team/Jieyu.jpg
+  description: > # Can be Markdown
+    University of Southern California
+  website: https://jyzhao.net/
+
+# Student
