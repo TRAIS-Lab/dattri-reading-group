@@ -13,7 +13,7 @@
   role: Faculty # Will appear next to name
   image: assets/image/team/Ruoxi.png
   description: > # Can be Markdown
-    Virginia Polytechnic Institute and State University (Virginia Tech)
+    Virginia Tech
   website: https://ruoxijia.net/
 
 - name: Himabindu Lakkaraju
