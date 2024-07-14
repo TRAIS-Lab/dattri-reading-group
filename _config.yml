@@ -76,4 +76,4 @@ defaults:
   - scope:
       type: posts
     values:
-      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
+      permalink: "/recording/:year/:slug/"   # Use /recording/yyyy/{filename}/ as permalink for all posts
