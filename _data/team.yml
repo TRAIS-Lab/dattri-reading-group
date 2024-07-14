@@ -3,52 +3,68 @@
 # Faculty
 
 - name: Zhao Han
-  role: Faculty # Will appear next to name
+  role: Faculty
   image: assets/image/team/Han.png
-  description: > # Can be Markdown
+  description: >
     University of Illinois Urbana-Champaign
   website: https://hanzhaoml.github.io/
 
 - name: Ruoxi Jia
-  role: Faculty # Will appear next to name
+  role: Faculty
   image: assets/image/team/Ruoxi.png
-  description: > # Can be Markdown
+  description: >
     Virginia Tech
   website: https://ruoxijia.net/
 
 - name: Himabindu Lakkaraju
-  role: Faculty # Will appear next to name
+  role: Faculty
   image: assets/image/team/Himabindu.png
-  description: > # Can be Markdown
+  description: >
     Harvard University
   website: https://himalakkaraju.github.io/
 
 - name: Jiaqi Ma
-  role: Faculty # Will appear next to name
-  image: assets/image/team/Jiaqi.jpg
-  description: > # Can be Markdown
+  role: Faculty
+  image: assets/image/team/Jiaqi.png
+  description: >
     University of Illinois Urbana-Champaign
   website: https://jiaqima.github.io
 
 - name: Hao Peng
-  role: Faculty # Will appear next to name
-  image: assets/image/team/Hao.jpg
-  description: > # Can be Markdown
+  role: Faculty
+  image: assets/image/team/Hao.png
+  description: >
     University of Illinois Urbana-Champaign
   website: https://haopeng-nlp.github.io/
 
 - name: Weijing Tang
-  role: Faculty # Will appear next to name
-  image: assets/image/team/Weijing.jpg
-  description: > # Can be Markdown
+  role: Faculty
+  image: assets/image/team/Weijing.png
+  description: >
     Carnegie Mellon University
   website: https://sites.google.com/andrew.cmu.edu/weijingtang/home
 
 - name: Jieyu Zhao
-  role: Faculty # Will appear next to name
-  image: assets/image/team/Jieyu.jpg
-  description: > # Can be Markdown
+  role: Faculty
+  image: assets/image/team/Jieyu.png
+  description: >
     University of Southern California
   website: https://jyzhao.net/
 
 # Student
+
+title: Student
+
+- name: Junwei Deng
+  role: Student
+  image: assets/image/team/Junwei.png
+  description: >
+    University of Illinois Urbana-Champaign
+  website: https://theaperdeng.github.io/
+
+- name: Pingbang Hu
+  role: Student
+  image: assets/image/team/Pingbang.png
+  description: >
+    University of Illinois Urbana-Champaign
+  website: https://pbb.wtf/
