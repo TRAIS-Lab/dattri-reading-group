@@ -130,6 +130,13 @@
     University of Michigan
   # website:
 
+- name: Ziqi Liu
+  role: Student
+  image: assets/image/team/Ziqi.png
+  description: >
+    Carnegie Mellon University
+  website: https://www.cmu.edu/dietrich/statistics-datascience/people/phd/ziqi-liu.html
+
 - name: Yijun Pan
   role: Student
   image: assets/image/team/default.png
