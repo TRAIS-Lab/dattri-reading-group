@@ -73,3 +73,59 @@
   description: >
     University of Illinois Urbana-Champaign
   website: https://tingwl0122.github.io/
+
+- name: Shixuan Liu
+  role: Student
+  # image: assets/image/team/Shinxuan.png
+  description: >
+    University of Michigan
+  # website:
+
+- name: Yuzheng Hu
+  role: Student
+  # image: assets/image/team/Yuzheng.png
+  description: >
+    University of Illinois Urbana-Champaign
+  website: https://scholar.google.com/citations?user=cVVimVcAAAAJ&hl=en
+
+- name: Jingyan Shen
+  role: Student
+  # image: assets/image/team/Jingyan.png
+  description: >
+    Columbia University
+  # website:
+
+- name: Feiyang Kang
+  role: Student
+  image: assets/image/team/Feiyang.png
+  description: >
+    Virginia Tech
+  website: https://www.linkedin.com/in/fykang/
+
+- name: Yiwen Tu
+  role: Student
+  # image: assets/image/team/Yiwen.png
+  description: >
+    University of Michigan
+  website: https://scholar.google.com/citations?user=V2H1oSQAAAAJ&hl=en
+
+- name: Yijun Pan
+  role: Student
+  # image: assets/image/team/Yijun.png
+  description: >
+    University of Michigan
+  # website:
+
+- name: Sean Zhang
+  role: Student
+  # image: assets/image/team/Sean.png
+  description: >
+    University of Illinois Urbana-Champaign
+  # website:
+
+- name: Huang Jin
+  role: Student
+  image: assets/image/team/Huang.png
+  description: >
+    University of Michigan
+  website: https://jn-huang.github.io/
