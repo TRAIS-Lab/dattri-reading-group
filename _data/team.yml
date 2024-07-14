@@ -109,6 +109,13 @@
     Virginia Tech
   website: https://www.linkedin.com/in/fykang/
 
+- name: Zhixin Lai
+  role: Student
+  image: assets/image/team/default.png
+  description: >
+    University of Science and Technology of China
+  # website:
+
 - name: Ting-Wei Li
   role: Student
   image: assets/image/team/Ting-Wei.png
@@ -164,3 +171,10 @@
   description: >
     University of Illinois Urbana-Champaign
   # website:
+
+- name: Yubo Zhang
+  role: Student
+  image: assets/image/team/Yubo.png
+  description: >
+    University of Southern California
+  website: https://yb-z.github.io/
