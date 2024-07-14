@@ -53,8 +53,6 @@
 
 # Student
 
-title: Student
-
 - name: Junwei Deng
   role: Student
   image: assets/image/team/Junwei.png
@@ -68,3 +66,10 @@ title: Student
   description: >
     University of Illinois Urbana-Champaign
   website: https://pbb.wtf/
+
+- name: Ting-Wei Li
+  role: Student
+  image: assets/image/team/Ting-Wei.png
+  description: >
+    University of Illinois Urbana-Champaign
+  website: https://tingwl0122.github.io/
