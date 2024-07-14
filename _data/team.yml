@@ -53,6 +53,13 @@
 
 # Student
 
+- name: Deema Alnuhait
+  role: Student
+  image: assets/image/team/Deema.png
+  description: >
+    University of Illinois Urbana-Champaign
+  website: https://deema-deema-a.vercel.app/
+
 - name: Junwei Deng
   role: Student
   image: assets/image/team/Junwei.png
@@ -60,12 +67,47 @@
     University of Illinois Urbana-Champaign
   website: https://theaperdeng.github.io/
 
+- name: Qirun Dai
+  role: Student
+  image: assets/image/team/default.png
+  description: >
+    Fudan University
+  website: https://github.com/qrdai
+
 - name: Pingbang Hu
   role: Student
   image: assets/image/team/Pingbang.png
   description: >
     University of Illinois Urbana-Champaign
   website: https://pbb.wtf/
+
+- name: Yuzheng Hu
+  role: Student
+  image: assets/image/team/default.png
+  description: >
+    University of Illinois Urbana-Champaign
+  website: https://scholar.google.com/citations?user=cVVimVcAAAAJ&hl=en
+
+- name: Benhao Huang
+  role: Student
+  image: assets/image/team/default.png
+  description: >
+    Shanghai Jiao Tong University
+  website: https://huskydoge.github.io/
+
+- name: Huang Jin
+  role: Student
+  image: assets/image/team/Huang.png
+  description: >
+    University of Michigan
+  website: https://jn-huang.github.io/
+
+- name: Feiyang Kang
+  role: Student
+  image: assets/image/team/Feiyang.png
+  description: >
+    Virginia Tech
+  website: https://www.linkedin.com/in/fykang/
 
 - name: Ting-Wei Li
   role: Student
@@ -81,12 +123,12 @@
     University of Michigan
   # website:
 
-- name: Yuzheng Hu
+- name: Yijun Pan
   role: Student
   image: assets/image/team/default.png
   description: >
-    University of Illinois Urbana-Champaign
-  website: https://scholar.google.com/citations?user=cVVimVcAAAAJ&hl=en
+    University of Michigan
+  # website:
 
 - name: Jingyan Shen
   role: Student
@@ -95,13 +137,6 @@
     Columbia University
   # website:
 
-- name: Feiyang Kang
-  role: Student
-  image: assets/image/team/Feiyang.png
-  description: >
-    Virginia Tech
-  website: https://www.linkedin.com/in/fykang/
-
 - name: Yiwen Tu
   role: Student
   image: assets/image/team/default.png
@@ -109,7 +144,14 @@
     University of Michigan
   website: https://scholar.google.com/citations?user=V2H1oSQAAAAJ&hl=en
 
-- name: Yijun Pan
+- name: Weiyi Wang
+  role: Student
+  image: assets/image/team/default.png
+  description: >
+    University of Michigan
+  # website:
+
+- name: Xinhe Wang
   role: Student
   image: assets/image/team/default.png
   description: >
@@ -122,31 +164,3 @@
   description: >
     University of Illinois Urbana-Champaign
   # website:
-
-- name: Huang Jin
-  role: Student
-  image: assets/image/team/Huang.png
-  description: >
-    University of Michigan
-  website: https://jn-huang.github.io/
-
-- name: Deema Alnuhait
-  role: Student
-  image: assets/image/team/Deema.png
-  description: >
-    University of Illinois Urbana-Champaign
-  website: https://deema-deema-a.vercel.app/
-
-- name: Qirun Dai
-  role: Student
-  image: assets/image/team/default.png
-  description: >
-    Fudan University
-  # website:
-
-- name: Benhao Huang
-  role: Student
-  image: assets/image/team/default.png
-  description: >
-    Shanghai Jiao Tong University
-  website: https://huskydoge.github.io/
