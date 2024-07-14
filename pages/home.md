@@ -12,9 +12,9 @@ This is a Summer 2024 reading group on *data attribution*, which aims to measure
 
 ## Schedule
 
-| Meeting date | Topic                            | Presenter                                                                                | Recording                   |
-| ------------ | -------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------- |
-| 2024/06/23   | Influence Function               | [Jiaqi Ma](https://jiaqima.github.io/)                                                   | [Link](./recording/2024/1/) |
-| 2024/06/30   | Counterfactual Subset Prediction | [Jiaqi Ma](https://jiaqima.github.io/)                                                   | [Link](./recording/2024/2/) |
-| 2024/07/07   | Data Shapley                     | [Ziqi Liu](https://www.cmu.edu/dietrich/statistics-datascience/people/phd/ziqi-liu.html) | [Link](./recording/2024/3/) |
-| 2024/07/13   | [LoGrA](https://arxiv.org/pdf/2405.13954) \& [Unrolled Differentiation](https://arxiv.org/pdf/2405.12186)       | [Juhan Bae](https://www.juhanbae.com/) (Guest)                                                   |                  |
+| Meeting date | Topic                                                                                                    | Presenter                                                                                | Recording                   |
+| ------------ | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------- |
+| 2024/06/23   | Influence Function                                                                                       | [Jiaqi Ma](https://jiaqima.github.io/)                                                   | [Link](./recording/2024/1/) |
+| 2024/06/30   | Counterfactual Subset Prediction                                                                         | [Jiaqi Ma](https://jiaqima.github.io/)                                                   | [Link](./recording/2024/2/) |
+| 2024/07/07   | Data Shapley                                                                                             | [Ziqi Liu](https://www.cmu.edu/dietrich/statistics-datascience/people/phd/ziqi-liu.html) | [Link](./recording/2024/3/) |
+| 2024/07/13   | [LoGrA](https://arxiv.org/pdf/2405.13954) & [Unrolled Differentiation](https://arxiv.org/pdf/2405.12186) | [Juhan Bae](https://www.juhanbae.com/) (Guest)                                           |                             |
