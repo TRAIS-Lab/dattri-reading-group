@@ -24,8 +24,9 @@
 
 // Adjust the column width
 .col-md-6 {
-	flex: 0 0 48%;
-	max-width: 48%;
+	min-width: 100%; // Use allowed width even if content is smaller
+	// flex: 0 0 48%;
+	// max-width: 48%;
 }
 
 @media (max-width: 768px) {
