@@ -3,18 +3,8 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - description:
-    links:
-    # - text: Jiaqi Ma
-    #   href: https://jiaqima.github.io/
-    #   new_window: true
-    # - text: Lead
-    #   href: http://example.com
-    #   new_window: true
-
   - description: > # E.g. funding acknowledgement. Can be Markdown
       Data Attribution Reading Group, Summer 2024.
-    links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
